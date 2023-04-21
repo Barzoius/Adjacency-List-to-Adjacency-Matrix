@@ -135,7 +135,6 @@ et_afis_matr:
 		incl lineIndex
 	jmp for_lines
 		
-		
 		et_exit:
 		   movl $1, %eax
 	           movl $0, %ebx
